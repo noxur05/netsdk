@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "netsdk"
+version = "2.0.0.1"
+description = "Python bindings for Dahua Access Controller SDK"
+authors = [{ name = "Bagtiyar Rejepov", email = "rejepowbagtyyar05@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.8"
